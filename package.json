@@ -1,6 +1,6 @@
 {
   "name": "node-app",
-  "description": "Nodeapp for CICD test Palas",
+  "description": "Nodeapp for CI/CD test Palas",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
